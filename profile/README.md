@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to GitHub for Quantum Omics Foundation!
+
 <!--
 
 **Here are some ideas to get you started:**
