@@ -2,13 +2,8 @@
 
 Welcome to GitHub for Quantum Omics Foundation!
 
-<!--
+# [QUANTUM OMICS FOUNDATION](https://quantumomics.foundation)
 
-**Here are some ideas to get you started:**
+## Advancing open research and education at the interface of quantum computing and life sciences
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### We bridge the quantum computing and life-sciences communities through open research, open-source tools, and rigorous education — training the next generation of scientists who apply classical and quantum computing methods to genomics, drug discovery, and systems biology.
