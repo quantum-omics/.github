@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Welcome to GitHub for Quantum Omics Foundation!
-
-# [QUANTUM OMICS FOUNDATION](https://quantumomics.foundation)
+# Welcome to GitHub for [Quantum Omics Foundation](https://quantumomics.foundation)
 
 ## Advancing open research and education at the interface of quantum computing and life sciences
 
